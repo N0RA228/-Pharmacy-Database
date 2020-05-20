@@ -1,0 +1,4 @@
+﻿  PharmacyDatabaseForm.cpp
+C:\Users\Nick\source\repos\PharmacyDatabase\PharmacyDatabase\PharmacyDatabaseForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  PharmacyDatabaseForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  PharmacyDatabase.vcxproj -> C:\Users\Nick\source\repos\PharmacyDatabase\Debug\PharmacyDatabase.exe

@@ -1,0 +1,3 @@
+C:\Users\Nick\source\repos\PharmacyDatabase\PharmacyDatabase\Debug\PharmacyDatabase.vcxprojAssemblyReference.cache
+C:\Users\Nick\source\repos\PharmacyDatabase\PharmacyDatabase\Debug\PharmacyDatabase.PharmacyDatabaseForm.resources
+C:\Users\Nick\source\repos\PharmacyDatabase\PharmacyDatabase\Debug\PharmacyDatabase.vcxproj.GenerateResource.cache
